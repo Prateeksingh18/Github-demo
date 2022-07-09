@@ -1,0 +1,4 @@
+Anyone interested in using source control and specifically Git
+Software engineers, developers, programmers new to Git
+IT Managers or technical leads considering Git for version control on their teams
+Freelancers or other creative professionals
